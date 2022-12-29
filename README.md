@@ -1,17 +1,11 @@
 [![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://www.gdckishtwar.in)](https://www.gdckishtwar.in)
- 
- <br> 
-  
- <p> 
- <div align="center"> 
-  <img src="https://img.shields.io/badge/-c-c58545?style=for-the-badge&logo=c&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-c++-c58545?style=for-the-badge&logo=c++&logoColor=c58545&labelColor=282828">
-   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828"> 
-   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828"> 
-   <img src="https://img.shields.io/badge/-Js-98b982?style=for-the-badge&logo=Js&logoColor=98b982&labelColor=282828"> 
- </div> 
- </p>
- <br>
+ <h2>Skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,linux,html,css,js" />
+  </a>
+</p>
+
 <h1 alig>
 <!-- There to help the students on assignment-->
 <br/>
@@ -34,4 +28,19 @@ using namespace std;
 int main(){
   cout<<"GDC kishtwar";
 }
+```
+```db
+Create Table Compd(
+Std_ID int,
+Std_Name varchar(255),
+Std_Sem varchar(255)
+);
+```
+```python
+mkdir students
+cd students
+mkdir students_id
+cd ..
+ls
+rm students
 ```
